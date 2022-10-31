@@ -1,5 +1,7 @@
 package scope.com.angelique.challenge;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -22,6 +24,9 @@ public class Main {
         // Optional Extra:
         // Change your program so that ALL variables (including the scanner
         // instance) are called x.
+
+        X x = new X(new Scanner(System.in));
+        x.x();
 
     }
 

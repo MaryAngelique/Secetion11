@@ -1,4 +1,4 @@
-package com.example.awtSample;
+package lecture.example.awtSample;
 
 public class Main {
 

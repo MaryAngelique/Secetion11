@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd23108c-919e-4925-914f-985968e003ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GameTest/ISavable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameTest/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameTest/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/angelique/src/SeriesText/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/angelique/src/SeriesText/Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Secetion11_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Secetion11_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mypackage/ISavable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Game/ISavable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mypackage/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mypackage/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Game/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/mypackage/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Game/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/angelique/challenge/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/GameTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/GameTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/GameTest/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/GameTest/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/GameTest/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/GameTest/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/WinDemo/src/com/example/awtSample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/WinDemo/src/com/example/awtSample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/WinDemo/src/com/example/awtSample/MyWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/WinDemo/src/com/example/awtSample/MyWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/game/ISavable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/game/ISavable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/game/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/game/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/game/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/packages/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/packages/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/packages/MyWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/packages/MyWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/Users/angeliqueabacajan/Desktop/Secetion11/src/GameTest",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",

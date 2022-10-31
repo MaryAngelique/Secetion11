@@ -1,4 +1,4 @@
-package GameTest;
+package lecture.GameTest;
 
 import java.util.ArrayList;
 import java.util.List;

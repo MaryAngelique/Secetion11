@@ -1,8 +1,8 @@
-package GameTest;
+package lecture.GameTest;
 
-import com.example.game.ISaveable;
-import com.example.game.Monster;
-import com.example.game.Player;
+import lecture.game.ISaveable;
+import lecture.game.Monster;
+import lecture.game.Player;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -12,14 +12,13 @@ public class Main {
         ScopeCheck.InnerClass innerClass = scopeInstance.new InnerClass();
         System.out.println("varThree is not accessible here " + innerClass.varThree);
 
-        System.out.println("scopeInstance varOne is " + scopeInstance.getVarOne());
-        System.out.println(varFour);
-
-        scopeInstance.timesTwo();
-        System.out.println("***********************************");
-        ScopeCheck.InnerClass innerClass = scopeInstance.new InnerClass();
-        innerClass.timesTwo();
-    }
+//        System.out.println("scopeInstance varOne is " + scopeInstance.getVarOne());
+//        System.out.println(varFour);
+//
+//        scopeInstance.timesTwo();
+//        System.out.println("***********************************");
+//        ScopeCheck.InnerClass innerClass = scopeInstance.new InnerClass();
+//        innerClass.timesTwo();
 
     }
 

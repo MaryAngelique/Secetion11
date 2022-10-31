@@ -3,7 +3,7 @@ package com.example.mypackage;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Player {
+public class Player extends ISavable {
 
     private String name;
     private int hitPoints;

@@ -1,4 +1,4 @@
-package com.example.Game;
+package com.example.game;
 
 import java.util.List;
 

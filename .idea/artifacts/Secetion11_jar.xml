@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Secetion11:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Secetion11_jar</output-path>
+    <root id="archive" name="Secetion11.jar">
+      <element id="module-output" name="Secetion11" />
+    </root>
+  </artifact>
+</component>

@@ -20,6 +20,11 @@ public class ScopeCheck {
         }
     }
 
+    public void useInner() {
+        InnerClass innerClass = new InnerClass();
+        System.out.println("varThree from outer class: " + innerClass.varThree);
+    }
+
     public class InnerClass {
         public int privateVar = 3;
 
@@ -29,7 +34,7 @@ public class ScopeCheck {
 
         public void timesTwo() {
             ScopeCheck.this.timesTwo();
-            for (int i=0; i<10; i++) {
+            for (int i = 0; i < 10; i++) {
                 System.out.println(i + " times two is " + i * ScopeCheck.this.privateVar);
             }
         }

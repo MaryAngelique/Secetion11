@@ -1,8 +1,9 @@
-package com.example.mypackage;
+package GameTest;
 
 public class Main {
 
     public static void main(String[] args) {
+
 
     }
 

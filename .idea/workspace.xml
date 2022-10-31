@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd23108c-919e-4925-914f-985968e003ea" name="Changes" comment="" />
+    <list default="true" id="bd23108c-919e-4925-914f-985968e003ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GameTest/ISavable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameTest/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameTest/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mypackage/ISavable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Game/ISavable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mypackage/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mypackage/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Game/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/mypackage/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Game/Player.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,11 +42,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/angeliqueabacajan/Desktop/Secetion11/src"
+    "last_opened_file_path": "/Users/angeliqueabacajan/Desktop/Secetion11/src/GameTest",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/GameTest" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>

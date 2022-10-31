@@ -1,4 +1,4 @@
-package com.example.awtSample;
+package lecture.example.awtSample;
 
 import java.awt.*;
 import java.awt.event.WindowAdapter;

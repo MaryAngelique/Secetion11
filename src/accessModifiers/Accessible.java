@@ -10,8 +10,11 @@ package accessModifiers;
 //
 // Hint: think back to the lecture on interfaces before answering.
 
-public interface Accessible {
+interface Accessible {
 
-
+    int SOME_CONSTANT = 100;
+    public void methodA();
+    void methodB();
+    boolean methodC();
 
 }

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd23108c-919e-4925-914f-985968e003ea" name="Changes" comment="" />
+    <list default="true" id="bd23108c-919e-4925-914f-985968e003ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/accessModifiers/Accessible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accessModifiers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accessModifiers/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accessModifiers/PrivateClass.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>

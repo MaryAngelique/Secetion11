@@ -2,6 +2,8 @@ package staticStatements;
 
 public class Main {
 
+    public static int multiplier = 7;
+
     public static void main(String[] args) {
 
         StaticTest firstInstance = new StaticTest("1st Instance");
